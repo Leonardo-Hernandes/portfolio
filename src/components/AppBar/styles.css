@@ -1,0 +1,8 @@
+.navText {
+    color: white !important;
+    transition: all 0.5s ease-out;
+}
+
+.navText:hover {
+    color: #26b6de !important;
+}
